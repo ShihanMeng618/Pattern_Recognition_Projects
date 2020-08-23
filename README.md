@@ -1,0 +1,2 @@
+# Pattern_Recognition_Projects
+implementation of classical pattern recognition algorithm
